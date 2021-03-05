@@ -2,6 +2,10 @@
 
 Whatsapp Toolkit app to download whatsapp status and send message directlu without saving contact
 
+This app is used to send a message via WhatsApp without saving the contact no. 
+The user also can able to download images and video status without opening WhatsApp.
+Users also can see all the current statuses without sending read status.
+
 ## Getting Started
 
 
